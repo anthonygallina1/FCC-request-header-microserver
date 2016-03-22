@@ -1,0 +1,28 @@
+{
+  "name": "fcc-request-header-microserver",
+  "version": "1.0.0",
+  "description": "Parser can get the IP address, language and operating system for my browser.",
+  "main": "micro-parser.js",
+  "scripts": {
+    "test": "node micro-parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonygallina1/FCC-request-header-microserver.git"
+  },
+  "keywords": [
+    "base",
+    "jump",
+    "parser",
+    "microsevice"
+  ],
+  "author": "anthonygallina1",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/anthonygallina1/FCC-request-header-microserver/issues"
+  },
+  "homepage": "https://github.com/anthonygallina1/FCC-request-header-microserver#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
